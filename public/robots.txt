@@ -1,0 +1,3 @@
+# Robots.txt for Trend Market
+User-agent: *
+Disallow:
